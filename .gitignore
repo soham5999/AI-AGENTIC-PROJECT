@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+models/saved_model.pkl
+data/vehicle_maintenance_dataset.csv
+database/maintenance.db
+visualizations/*.png
